@@ -31,9 +31,9 @@ function Navbar() {
         
         <div className="md:hidden">
           <button onClick={handleMenuToggle}>
-            <div class="space-y-2">
-                <span class="block h-1 w-7 origin-center rounded-full bg-slate-500"></span>
-                <span class="block h-1 w-7 origin-center rounded-full bg-slate-500"></span>
+            <div className="space-y-2">
+                <span className="block h-1 w-7 origin-center rounded-full bg-slate-500"></span>
+                <span className="block h-1 w-7 origin-center rounded-full bg-slate-500"></span>
             </div>
           </button>
         </div>
