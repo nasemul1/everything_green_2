@@ -21,18 +21,18 @@ function Landing() {
                 </div>
                 <div className='flex flex-col items-center'>
                     <img src={facebook} alt="" className='shadow-[0_8px_30px_rgb(0,0,0,0.12)]'/>
-                    <p className='text-[#1B9876] text-[16px] font-bold'>Google</p>
-                    <p className='text-[#1B9876]'>0.26gm/per visit</p>
+                    <p className='text-[#1B9876] text-[16px] font-bold'>Facebook</p>
+                    <p className='text-[#1B9876]'>0.21gm/per visit</p>
                 </div>
                 <div className='flex flex-col items-center'>
                     <img src={alpha} alt="" className='shadow-[0_8px_30px_rgb(0,0,0,0.12)]'/>
-                    <p className='text-[#1B9876] text-[16px] font-bold'>Google</p>
-                    <p className='text-[#1B9876]'>0.26gm/per visit</p>
+                    <p className='text-[#1B9876] text-[16px] font-bold'>Alphabet</p>
+                    <p className='text-[#1B9876]'>0.094gm/per visit</p>
                 </div>
                 <div className='flex flex-col items-center'>
                     <img src={redInc} alt="" className='shadow-[0_8px_30px_rgb(0,0,0,0.12)]'/>
                     <p className='text-[#1B9876] text-[16px] font-bold'>Google</p>
-                    <p className='text-[#1B9876]'>0.26gm/per visit</p>
+                    <p className='text-[#1B9876]'>0.230gm/per visit</p>
                 </div>
             </div>
         </div>
